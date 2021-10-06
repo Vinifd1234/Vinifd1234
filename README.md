@@ -1,23 +1,10 @@
-### Olá! Bem vindo :D 
-### Você acabou de entrar no perfil de um jovem desenvolvedor curioso e verdadeiramente empolgado com tecnologia.
-[![Anurag's](https://github-readme-stats.vercel.app/api?username=Vinifd1234&hide=stars,commits,contribs&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's](https://github-readme-stats.vercel.app/api?username=Vinifd1234&hide=stars,commits,contribs&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+### 😄 Olá! Bem vindo :D 
+### 💬 Me chamo Vinicius, atualmente tenho 19 anos. Sou técnico em Desenvolvimento de Sistemas e, atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!--
-**Vinifd1234/Vinifd1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
