@@ -1,5 +1,5 @@
 ### Olá! Bem vindo ao meu perfil :D 
-[![Anurag's](https://github-readme-stats.vercel.app/api?username=Vinifd1234&hide=stars,commits,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's](https://github-readme-stats.vercel.app/api?username=Vinifd1234&hide=stars,commits,contribs&count_private=true&show_icons=true&theme=synthwave&locale=pt)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Vinifd1234/Vinifd1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
